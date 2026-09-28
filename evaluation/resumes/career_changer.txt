@@ -1,0 +1,33 @@
+Samuel T. Whitfield
+Date of Birth: 04/12/1968 | Nationality: Canadian | Marital status: Married
+sam.whitfield@example.net | +1 (416) 555-0123 | www.samwhitfield.me
+Photo attached
+
+OBJECTIVE
+Experienced veteran seeking a data analyst role after a successful military career.
+
+PROFESSIONAL EXPERIENCE
+Operations Analyst | Great Lakes Freight Logistics | Toronto, Ontario | 2019 – 2023
+- Built Excel and Power BI dashboards tracking 3,000 weekly shipments
+- Automated route reports with Python, saving 10 analyst hours per week
+
+Logistics Sergeant | U.S. Army | Fort Bragg, NC | 1990 – 2012
+- Supervised inventory for a 400-person battalion
+- Member of the National Society of Black Engineers mentoring program
+
+EDUCATION
+Data Analytics Certificate, Georgia Institute of Technology, 2019
+Associate of Science in Business, Durham Technical Community College, 1995
+
+SKILLS
+Excel, Power BI, Python, SQL, Supply chain planning, Inventory control
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate (2020)
+
+VOLUNTEER
+- Treasurer, Riverside Mosque community food drive
+- Organized a regional logistics workshop for 60 small-business owners
+
+PERSONAL
+Hobbies: fishing, chess. Married with three children.

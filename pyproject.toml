@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "resume-adapter"
+version = "0.1.0"
+description = "Re-blinds and normalizes resumes into standardized, de-identified documents for human reviewers."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.7,<3",
+    "pypdf>=5,<7",
+    "python-docx>=1.1,<2",
+    "reportlab>=4,<6",
+    "openai>=1.40,<4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.6,<1"]
+
+[project.scripts]
+resume-adapter = "resume_adapter.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["resume_adapter*"]
+
+[tool.setuptools.package-data]
+resume_adapter = ["data/*.json"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+extend-exclude = [".venv"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
