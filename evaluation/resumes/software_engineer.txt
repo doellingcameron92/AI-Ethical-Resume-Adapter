@@ -1,0 +1,34 @@
+Jordan A. Rivera
+jordan.rivera@example.com | (312) 555-0147 | linkedin.com/in/jordanrivera | github.com/jrivera-dev
+1428 Maple Street, Chicago, IL 60614
+
+SUMMARY
+Backend engineer who enjoys building reliable data platforms.
+
+EXPERIENCE
+Senior Software Engineer | Northwind Analytics | Chicago, IL | Mar 2021 – Present
+- Led migration of 40 batch pipelines to Apache Spark, cutting nightly runtime by 55%
+- Mentored four engineers at Northwind Analytics on code review and testing practices
+- Designed an event-driven billing service handling 2 million requests per day
+
+Software Engineer | Lakeshore Community Bank | Chicago, IL | Jun 2017 – Aug 2019
+- Built fraud-detection features in Python and SQL used by the risk team since 2018
+- Reduced API latency by 30% through query optimization and caching
+
+Software Engineering Intern | Microsoft | Redmond, WA | May 2016 – Aug 2016
+- Prototyped telemetry dashboards in TypeScript
+
+EDUCATION
+B.S. in Computer Science, University of Michigan, Ann Arbor, MI, 2013 – 2017
+
+SKILLS
+Languages: Python, SQL, TypeScript, Go
+Platforms: Apache Spark, Kubernetes, PostgreSQL, Kafka
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2022)
+- Certified Kubernetes Administrator, 2020
+
+ACHIEVEMENTS
+- Speaker on data-pipeline reliability at a regional engineering conference in 2022
+- Maintainer of an open-source SQL linting library with 1,200 stars
