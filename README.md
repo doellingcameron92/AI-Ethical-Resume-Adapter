@@ -26,6 +26,8 @@ grounding audit that rejects any claim it cannot trace to source text.
 
 ## Install
 
+For a step-by-step guide covering install, running, options, exit codes and troubleshooting, see [RUNNING.md](RUNNING.md).
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # pinned versions
